@@ -8,7 +8,7 @@ public class booking {
     private int budget;
 
     public booking(int bookid, String destination, String souceplace, int budget) {
-        this.bookid = bookid;
+        this.bookid = bookid;    
         this.destination = destination;
         this.souceplace = souceplace;
         this.budget = budget;
